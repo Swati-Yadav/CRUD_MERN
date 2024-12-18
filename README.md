@@ -42,23 +42,6 @@ npm install
 Start the frontend development server:
 npm start
 Access the application in your browser at http://localhost:3000.
-Folder Structure
-mern-crud/
-├── backend/
-│   ├── models/
-│   │   └── Item.js            # MongoDB schema
-│   ├── routes/
-│   │   └── itemRoutes.js      # API routes
-│   ├── server.js              # Express server
-│   └── .env                   # Environment variables
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── ItemForm.js    # Form for adding items
-│   │   │   └── ItemList.js    # List of items
-│   │   ├── App.js             # Main React component
-│   │   └── index.css          # Custom styles
-├── README.md                  # Project description
 
 
 API Endpoints
