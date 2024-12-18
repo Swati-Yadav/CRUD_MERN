@@ -27,7 +27,7 @@ MongoDB: Install and run MongoDB locally, or use MongoDB Atlas for a cloud datab
 
 Installation and Setup
 Clone the repository:
-git clone https://github.com/your-username/mern-crud.git
+git clone https://github.com/Swati-Yadav/CRUD_MERN
 cd mern-crud
 Set up the backend:
 cd backend
